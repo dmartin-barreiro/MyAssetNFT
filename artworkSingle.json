@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Chalet independiente en venta en Aldán",
+    "description": "chalet independiente en Aldán, excelentes calidades, finca de 2.500 m2, 400 m2 construidos de los cuáles unos 50 m2 los ocupa un porche orientado a la zona de la piscina y con acceso directo desde el salón",
+    "external_url": "https://www.idealista.com/inmueble/38122842/foto/1/",
+    "image": "https://img3.idealista.com/blur/WEB_DETAIL_TOP-L-P/0/id.pro.es.image.master/a3/80/1c/800034489.jpg",
+    "attributes": [
+      {
+        "trait_type": "size",
+        "value": "2500 sq m"
+      },
+      {
+        "trait_type": "city",
+        "value": "Cangas"
+      },
+      {
+        "trait_type": "country",
+        "value": "es"
+      },
+      {
+        "trait_type": "condition",
+        "value": "used"
+      }
+    ]
+  }
+]

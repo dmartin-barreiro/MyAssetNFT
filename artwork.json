@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Casa en calle San Antón",
+    "description": "Chalet 365 m² en Cangas, Pontevedra  en ubicación exclusiva en la playa de Liméns, con acceso directo a la playa.",
+    "external_url": "https://www.idealista.com/inmueble/95303312/foto/1/",
+    "image": "https://img3.idealista.com/blur/WEB_DETAIL-XL-L/0/id.pro.es.image.master/2d/91/99/914767549.jpg",
+    "attributes": [
+      {
+        "trait_type": "size",
+        "value": "365 sq m"
+      },
+      {
+        "trait_type": "city",
+        "value": "Cangas"
+      },
+      {
+        "trait_type": "country",
+        "value": "es"
+      },
+      {
+        "trait_type": "condition",
+        "value": "used"
+      }
+    ]
+  },
+  {
+    "name": "Casa independiente en As Furnas ",
+    "description": "magnífica propiedad situada sobre Punta Franqueira, próxima a Cangas y a solo 100 metros del mar",
+    "external_url": "https://www.idealista.com/inmueble/38122842/foto/1/",
+    "image": "https://img3.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/d7/9c/e8/669937580.jpg",
+    "attributes": [
+      {
+        "trait_type": "size",
+        "value": "460 sq m"
+      },
+      {
+        "trait_type": "city",
+        "value": "Cangas"
+      },
+      {
+        "trait_type": "country",
+        "value": "es"
+      },
+      {
+        "trait_type": "condition",
+        "value": "new"
+      }
+    ]
+  }
+]
+ 
